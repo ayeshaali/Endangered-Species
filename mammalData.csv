@@ -1,0 +1,222 @@
+Country Name,Country Code,2015
+Aruba,ABW,2
+Andorra,AND,2
+Afghanistan,AFG,10
+Angola,AGO,17
+Albania,ALB,3
+Arab World,ARB,217
+United Arab Emirates,ARE,7
+Argentina,ARG,40
+Armenia,ARM,8
+American Samoa,ASM,1
+Antigua and Barbuda,ATG,2
+Australia,AUS,56
+Austria,AUT,3
+Azerbaijan,AZE,6
+Burundi,BDI,12
+Belgium,BEL,2
+Benin,BEN,12
+Burkina Faso,BFA,9
+Bangladesh,BGD,33
+Bulgaria,BGR,7
+Bahrain,BHR,3
+"Bahamas, The",BHS,6
+Bosnia and Herzegovina,BIH,4
+Belarus,BLR,3
+Belize,BLZ,9
+Bermuda,BMU,4
+Bolivia,BOL,21
+Brazil,BRA,82
+Barbados,BRB,3
+Brunei Darussalam,BRN,34
+Bhutan,BTN,26
+Botswana,BWA,8
+Central African Republic,CAF,13
+Canada,CAN,11
+Central Europe and the Baltics,CEB,42
+Switzerland,CHE,2
+Chile,CHL,20
+China,CHN,74
+Cote d'Ivoire,CIV,29
+Cameroon,CMR,43
+"Congo, Rep.",COG,16
+Colombia,COL,56
+Comoros,COM,5
+Cabo Verde,CPV,4
+Costa Rica,CRI,10
+Caribbean small states,CSS,60
+Cuba,CUB,12
+Curacao,CUW,3
+Cayman Islands,CYM,1
+Cyprus,CYP,5
+Czech Republic,CZE,2
+Germany,DEU,4
+Djibouti,DJI,6
+Dominica,DMA,3
+Denmark,DNK,2
+Dominican Republic,DOM,6
+Algeria,DZA,13
+Ecuador,ECU,46
+"Egypt, Arab Rep.",EGY,17
+Euro area,EMU,90
+Eritrea,ERI,10
+Spain,ESP,16
+Estonia,EST,1
+Ethiopia,ETH,33
+European Union,EUU,128
+Finland,FIN,1
+Fiji,FJI,6
+France,FRA,8
+Faroe Islands,FRO,4
+"Micronesia, Fed. Sts.",FSM,5
+Gabon,GAB,19
+United Kingdom,GBR,5
+Georgia,GEO,8
+Ghana,GHA,20
+Gibraltar,GIB,5
+Guinea,GIN,25
+"Gambia, The",GMB,9
+Guinea-Bissau,GNB,14
+Equatorial Guinea,GNQ,23
+Greece,GRC,10
+Grenada,GRD,3
+Greenland,GRL,7
+Guatemala,GTM,17
+Guam,GUM,2
+Guyana,GUY,11
+"Hong Kong SAR, China",HKG,2
+Honduras,HND,8
+Croatia,HRV,8
+Haiti,HTI,5
+Hungary,HUN,2
+Indonesia,IDN,185
+Isle of Man,IMN,1
+India,IND,93
+Ireland,IRL,5
+"Iran, Islamic Rep.",IRN,16
+Iraq,IRQ,13
+Iceland,ISL,6
+Israel,ISR,14
+Italy,ITA,7
+Jamaica,JAM,6
+Jordan,JOR,12
+Japan,JPN,27
+Kazakhstan,KAZ,15
+Kenya,KEN,30
+Kyrgyz Republic,KGZ,5
+Cambodia,KHM,36
+Kiribati,KIR,1
+St. Kitts and Nevis,KNA,2
+"Korea, Rep.",KOR,10
+Kuwait,KWT,5
+Lao PDR,LAO,45
+Lebanon,LBN,9
+Liberia,LBR,24
+Libya,LBY,11
+St. Lucia,LCA,2
+Liechtenstein,LIE,0
+Sri Lanka,LKA,30
+Lesotho,LSO,2
+Lithuania,LTU,2
+Luxembourg,LUX,0
+Latvia,LVA,1
+"Macao SAR, China",MAC,0
+St. Martin (French part),MAF,2
+Morocco,MAR,16
+Monaco,MCO,2
+Moldova,MDA,4
+Madagascar,MDG,119
+Maldives,MDV,2
+Mexico,MEX,101
+Marshall Islands,MHL,2
+"Macedonia, FYR",MKD,5
+Mali,MLI,12
+Malta,MLT,2
+Myanmar,MMR,46
+Montenegro,MNE,6
+Mongolia,MNG,10
+Northern Mariana Islands,MNP,4
+Mozambique,MOZ,13
+Mauritania,MRT,16
+Mauritius,MUS,7
+Malawi,MWI,8
+Malaysia,MYS,70
+North America,NAC,50
+Namibia,NAM,13
+New Caledonia,NCL,9
+Niger,NER,12
+Nigeria,NGA,29
+Nicaragua,NIC,7
+Netherlands,NLD,3
+Norway,NOR,7
+Nepal,NPL,31
+Nauru,NRU,1
+New Zealand,NZL,9
+Oman,OMN,9
+Pakistan,PAK,24
+Panama,PAN,16
+Peru,PER,55
+Philippines,PHL,39
+Palau,PLW,4
+Papua New Guinea,PNG,39
+Poland,POL,4
+Puerto Rico,PRI,3
+"Korea, Dem. People’s Rep.",PRK,9
+Portugal,PRT,12
+Paraguay,PRY,10
+Pacific island small states,PSS,51
+Qatar,QAT,2
+Romania,ROU,7
+Russian Federation,RUS,29
+Rwanda,RWA,23
+Saudi Arabia,SAU,9
+Sudan,SDN,12
+Senegal,SEN,17
+Singapore,SGP,12
+Solomon Islands,SLB,20
+Sierra Leone,SLE,22
+El Salvador,SLV,7
+San Marino,SMR,0
+Somalia,SOM,13
+Serbia,SRB,6
+South Sudan,SSD,9
+Sao Tome and Principe,STP,5
+Suriname,SUR,9
+Slovak Republic,SVK,3
+Slovenia,SVN,5
+Sweden,SWE,1
+Swaziland,SWZ,7
+Sint Maarten (Dutch part),SXM,2
+Seychelles,SYC,6
+Syrian Arab Republic,SYR,15
+Turks and Caicos Islands,TCA,2
+Chad,TCD,14
+Togo,TGO,11
+Thailand,THA,54
+Tajikistan,TJK,6
+Turkmenistan,TKM,8
+Timor-Leste,TLS,4
+Tonga,TON,2
+Trinidad and Tobago,TTO,2
+Tunisia,TUN,13
+Turkey,TUR,16
+Tuvalu,TUV,1
+Tanzania,TZA,38
+Uganda,UGA,27
+Ukraine,UKR,9
+Uruguay,URY,10
+United States,USA,35
+Uzbekistan,UZB,9
+St. Vincent and the Grenadines,VCT,2
+"Venezuela, RB",VEN,34
+British Virgin Islands,VGB,1
+Virgin Islands (U.S.),VIR,2
+Vietnam,VNM,54
+Vanuatu,VUT,7
+West Bank and Gaza,PSE,3
+Samoa,WSM,2
+"Yemen, Rep.",YEM,8
+South Africa,ZAF,25
+"Congo, Dem. Rep.",COD,35
+Zambia,ZMB,11
+Zimbabwe,ZWE,10
