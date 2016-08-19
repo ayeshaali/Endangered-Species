@@ -1,0 +1,192 @@
+Country,CODE,Continent,Extinct,Endangered,Near_Threat,Least_Concern,Total
+Afghanistan,AFG,"West and Central Asia",0,33,22,549,619
+Albania,ALB,Europe,1,112,62,758,992
+Algeria,DZA,"North Africa",3,97,47,675,907
+"American Samoa",ASM,Oceania,1,89,88,617,855
+Andorra,AND,Europe,0,11,17,272,305
+Angola,AGO,"Sub Saharan Africa",0,96,49,1853,2183
+Anguilla,AIA,"Caribbean Islands",0,47,16,496,591
+"Antigua and Barbuda",ATG,"Caribbean Islands",1,49,21,610,720
+Argentina,ARG,"South America",5,173,120,1518,1989
+Armenia,ARM,"West and Central Asia",0,40,35,450,539
+Aruba,ABW,"Caribbean Islands",0,27,14,469,533
+Australia,AUS,Oceania,34,818,407,2899,4681
+Austria,AUT,Europe,3,93,70,725,947
+Azerbaijan,AZE,"West and Central Asia",1,50,39,551,677
+Bahrain,BHR,"West and Central Asia",0,32,50,418,521
+Bangladesh,BGD,"South and Southeast Asia",1,116,78,1192,1465
+Barbados,BRB,"Caribbean Islands",0,48,21,610,716
+Belarus,BLR,"North Asia",0,20,35,453,513
+Belgium,BEL,Europe,1,30,40,597,699
+Belize,BLZ,"North and Central America",1,82,56,1245,1448
+Benin,BEN,"Sub Saharan Africa",0,58,37,1090,1253
+Bermuda,BMU,"Caribbean Islands",4,56,19,397,506
+Bhutan,BTN,"South and Southeast Asia",0,53,42,686,788
+"Bosnia and Herzegovina",BIH,Europe,0,84,50,715,915
+Botswana,BWA,"Sub Saharan Africa",0,22,29,993,1054
+Brazil,BRA,"South America",10,450,231,3297,4611
+Bulgaria,BGR,Europe,0,79,66,778,980
+"Burkina Faso",BFA,"Sub Saharan Africa",1,26,23,761,813
+Burundi,BDI,"Sub Saharan Africa",0,52,39,1034,1160
+Cambodia,KHM,"South and Southeast Asia",0,207,170,1541,2094
+Cameroon,CMR,"Sub Saharan Africa",0,264,72,2040,2552
+Canada,CAN,"North America",7,90,51,1216,1428
+"Cayman Islands",CYM,"Caribbean Islands",1,49,22,575,686
+"Central African Republic",CAF,"Sub Saharan Africa",0,32,23,1345,1446
+Chad,TCD,"Sub Saharan Africa",1,33,24,805,874
+Chile,CHL,"South America",0,110,72,798,1205
+China,CHN,"East Asia",5,496,228,2968,4619
+Colombia,COL,"South America",2,506,202,3606,4774
+Comoros,COM,"Sub Saharan Africa",0,99,108,623,899
+"Cook Islands",COK,Oceania,15,62,53,485,663
+"Costa Rica",CRI,"North and Central America",3,192,101,2291,2789
+Croatia,HRV,Europe,1,151,67,884,1202
+Cuba,CUB,"Caribbean Islands",7,161,48,857,1160
+Cyprus,CYP,"West and Central Asia",0,42,27,482,600
+"Czech Republic",CZE,Europe,0,35,47,610,726
+Denmark,DNK,Europe,0,35,35,564,658
+Djibouti,DJI,"Sub Saharan Africa",0,91,129,824,1134
+Dominica,DMA,"Caribbean Islands",1,51,20,625,743
+"Dominican Republic",DOM,"Caribbean Islands",9,111,44,706,916
+Ecuador,ECU,"South America",6,460,166,2647,3598
+Egypt,EGY,"North Africa",2,138,137,1168,1577
+"El Salvador",SLV,"North and Central America",0,54,47,1270,1453
+"Equatorial Guinea",GNQ,"Sub Saharan Africa",0,76,28,994,1170
+Eritrea,ERI,"Sub Saharan Africa",0,109,143,1111,1461
+Estonia,EST,Europe,0,17,22,477,521
+Ethiopia,ETH,"Sub Saharan Africa",0,104,43,1318,1528
+"Faroe Islands",FRO,Europe,1,14,5,182,213
+Fiji,FJI,Oceania,1,213,158,877,1356
+Finland,FIN,Europe,0,23,30,498,560
+France,FRA,Europe,7,203,126,1194,1770
+"French Polynesia",PYF,Oceania,83,128,69,598,964
+Gabon,GAB,"Sub Saharan Africa",0,96,28,1358,1611
+Georgia,GEO,"West and Central Asia",0,53,45,533,651
+Germany,DEU,Europe,4,90,76,791,1036
+Ghana,GHA,"Sub Saharan Africa",0,104,71,1509,1779
+Gibraltar,GIB,Europe,0,26,16,340,410
+Greece,GRC,Europe,1,233,110,1062,1601
+Greenland,GRL,Europe,1,16,6,123,157
+Grenada,GRD,"Caribbean Islands",0,48,18,530,637
+Guam,GUM,Oceania,5,91,89,641,927
+Guatemala,GTM,"North and Central America",1,185,82,1878,2275
+Guernsey,GGY,Europe,0,2,2,75,85
+Guinea,GIN,"Sub Saharan Africa",0,129,82,1396,1722
+Guyana,GUY,"South America",0,64,57,1443,1651
+Haiti,HTI,"Caribbean Islands",10,127,45,688,914
+Honduras,HND,"North and Central America",3,174,80,1997,2386
+"Hong Kong",HKG,"East Asia",0,53,29,596,755
+Hungary,HUN,Europe,0,57,47,599,749
+Iceland,ISL,Europe,1,21,12,193,247
+India,IND,"South and Southeast Asia",0,655,335,3107,4853
+Indonesia,IDN,"South and Southeast Asia",2,820,565,3751,6036
+Iraq,IRQ,"West and Central Asia",1,68,63,690,853
+Ireland,IRL,Europe,1,38,23,462,565
+"Isle of Man",IMN,Europe,0,3,1,49,57
+Israel,ISR,"West and Central Asia",4,152,132,1060,1445
+Italy,ITA,Europe,2,212,148,1143,1716
+Jamaica,JAM,"Caribbean Islands",4,84,38,625,806
+Japan,JPN,"East Asia",13,341,238,1827,2854
+Jersey,JEY,Europe,0,3,1,86,96
+Jordan,JOR,"West and Central Asia",0,101,121,844,1128
+Kazakhstan,KAZ,"West and Central Asia",1,62,33,672,814
+Kenya,KEN,"Sub Saharan Africa",2,241,187,2461,3119
+Kiribati,KIR,Oceania,1,100,123,571,847
+Kuwait,KWT,"West and Central Asia",1,42,53,514,635
+Kyrgyzstan,KGZ,"West and Central Asia",0,27,18,418,471
+Latvia,LVA,Europe,0,25,32,512,580
+Lebanon,LBN,"West and Central Asia",0,64,32,549,684
+Lesotho,LSO,"Sub Saharan Africa",0,13,14,364,393
+Liberia,LBR,"Sub Saharan Africa",0,109,74,1122,1392
+Libya,LBY,"North Africa",1,51,27,506,628
+Liechtenstein,LIE,Europe,0,4,19,357,386
+Lithuania,LTU,Europe,0,21,30,490,551
+Luxembourg,LUX,Europe,0,9,21,402,442
+Madagascar,MDG,"Sub Saharan Africa",11,556,223,1311,2444
+Malawi,MWI,"Sub Saharan Africa",0,146,36,1373,1603
+Malaysia,MYS,"South and Southeast Asia",1,531,396,2472,3769
+Maldives,MDV,"South and Southeast Asia",0,69,90,632,855
+Mali,MLI,"Sub Saharan Africa",1,31,24,931,996
+Malta,MLT,Europe,0,27,21,390,469
+"Marshall Islands",MHL,Oceania,0,95,125,654,933
+Mauritania,MRT,"Sub Saharan Africa",1,69,41,752,934
+Mauritius,MUS,"Sub Saharan Africa",44,159,122,677,1098
+Mexico,MEX,"North and Central America",31,732,188,3453,4911
+Moldova,MDA,"North Asia",1,27,31,410,475
+Monaco,MCO,Europe,0,16,9,219,259
+Mongolia,MNG,"East Asia",0,36,24,510,579
+Montenegro,MNE,Europe,1,83,59,742,950
+Morocco,MAR,"North Africa",3,142,67,747,1051
+Mozambique,MOZ,"Sub Saharan Africa",0,184,173,2123,2665
+Namibia,NAM,"Sub Saharan Africa",1,77,45,1240,1448
+Nepal,NPL,"South and Southeast Asia",0,88,66,1250,1468
+Netherlands,NLD,Europe,1,29,40,604,705
+"New Caledonia",NCL,Oceania,5,234,161,1080,1625
+"New Zealand",NZL,Oceania,22,176,56,434,825
+Nicaragua,NIC,"North and Central America",1,97,75,1952,2275
+Niger,NER,"Sub Saharan Africa",1,28,25,706,765
+Nigeria,NGA,"Sub Saharan Africa",1,144,66,1838,2154
+Niue,NIU,Oceania,0,50,52,439,579
+"Northern Mariana Islands",MNP,Oceania,0,94,90,647,896
+Norway,NOR,Europe,0,40,38,546,648
+Oman,OMN,"West and Central Asia",0,84,93,873,1152
+Pakistan,PAK,"West and Central Asia",0,117,99,1138,1418
+Palau,PLW,Oceania,1,173,154,909,1336
+Panama,PAN,"North and Central America",0,170,105,2362,2909
+"Papua New Guinea",PNG,Oceania,1,327,260,2168,3177
+Paraguay,PRY,"South America",3,39,51,953,1076
+Peru,PER,"South America",2,325,173,2837,3694
+Philippines,PHL,"South and Southeast Asia",0,528,325,2034,3358
+Poland,POL,Europe,1,41,50,662,780
+Portugal,PRT,Europe,2,175,77,843,1267
+"Puerto Rico",PRI,"Caribbean Islands",4,70,26,755,900
+Qatar,QAT,"West and Central Asia",0,35,54,438,545
+Romania,ROU,Europe,2,80,62,751,955
+Rwanda,RWA,"Sub Saharan Africa",1,53,31,896,999
+"Saint Kitts and Nevis",KNA,"Caribbean Islands",1,49,18,584,687
+"Saint Lucia",LCA,"Caribbean Islands",1,52,22,601,710
+"Saint Pierre and Miquelon",SPM,"North America",0,7,8,207,226
+"Saint Vincent and the Grenadines",VCT,"Caribbean Islands",1,49,20,611,717
+Samoa,WSM,Oceania,0,88,90,671,929
+"San Marino",SMR,Europe,0,1,5,56,64
+"Sao Tome and Principe",STP,"Sub Saharan Africa",0,43,10,212,323
+"Saudi Arabia",SAU,"West and Central Asia",1,116,147,1055,1425
+Senegal,SEN,"Sub Saharan Africa",1,95,51,1127,1364
+Serbia,SRB,Europe,0,51,53,654,777
+Seychelles,SYC,"Sub Saharan Africa",20,373,121,759,1349
+"Sierra Leone",SLE,"Sub Saharan Africa",0,100,68,1177,1440
+Singapore,SGP,"South and Southeast Asia",1,229,232,1199,1789
+Slovakia,SVK,Europe,0,38,51,629,757
+Slovenia,SVN,Europe,0,118,49,825,1060
+"Solomon Islands",SLB,Oceania,2,221,198,1136,1696
+Somalia,SOM,"Sub Saharan Africa",0,122,148,1475,1896
+"South Africa",ZAF,"Sub Saharan Africa",5,411,173,2141,3005
+"South Sudan",SSD,"Sub Saharan Africa",0,26,23,1182,1252
+Spain,ESP,Europe,2,338,198,1241,2159
+"Sri Lanka",LKA,"South and Southeast Asia",20,289,181,1225,1848
+Sudan,SDN,"Sub Saharan Africa",1,107,137,1687,2041
+Suriname,SUR,"South America",0,50,48,1328,1496
+Swaziland,SWZ,"Sub Saharan Africa",0,23,17,747,793
+Sweden,SWE,Europe,0,31,44,601,701
+Switzerland,CHE,Europe,6,58,63,677,857
+Tajikistan,TJK,"West and Central Asia",0,29,17,411,474
+Thailand,THA,"South and Southeast Asia",2,445,375,2868,4215
+Togo,TGO,"Sub Saharan Africa",0,54,38,1159,1319
+Tonga,TON,Oceania,2,70,73,669,871
+"Trinidad and Tobago",TTO,"Caribbean Islands",0,63,32,1064,1210
+Tunisia,TUN,"North Africa",12,76,38,608,796
+Turkey,TUR,"West and Central Asia",4,267,93,1056,1530
+Turkmenistan,TKM,"West and Central Asia",1,45,24,529,629
+Tuvalu,TUV,Oceania,0,93,121,522,780
+Uganda,UGA,"Sub Saharan Africa",1,136,65,1745,2074
+Ukraine,UKR,"North Asia",3,70,53,760,953
+"United Arab Emirates",ARE,"West and Central Asia",0,48,61,601,757
+"United Kingdom",GBR,Europe,2,71,51,619,795
+"United States",USA,"North America",236,1019,346,3755,5908
+Uruguay,URY,"South America",0,81,41,588,769
+Uzbekistan,UZB,"West and Central Asia",0,37,22,447,523
+Vanuatu,VUT,Oceania,1,127,140,861,1215
+"Virgin Islands",VGB,"Caribbean Islands",2,41,16,550,642
+Yemen,YEM,"West and Central Asia",2,125,159,1082,1503
+Zambia,ZMB,"Sub Saharan Africa",0,63,40,1720,1898
+Zimbabwe,ZWE,"Sub Saharan Africa",0,43,32,1257,1354
