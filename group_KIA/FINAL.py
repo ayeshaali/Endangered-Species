@@ -107,7 +107,7 @@ def pieChart():
 	f.close()
 
 def choropleth ():
-	species = pd.read_csv('https://raw.githubusercontent.com/ayeshaali/Code/master/species6.csv')
+	species = pd.read_csv('https://raw.githubusercontent.com/ayeshaali/Endangered-Species/master/group_KIA/species6.csv')
 
 	for col in species.columns:
 		species[col] = species[col].astype(str)
@@ -156,7 +156,7 @@ def choropleth ():
 	ply.plot(plotly_fig, filename = 'awesome-sauce-map2')
 
 def choroplethMammal():
-	species = pd.read_csv('https://raw.githubusercontent.com/ayeshaali/Code/master/mammalData.csv')
+	species = pd.read_csv('https://raw.githubusercontent.com/ayeshaali/Endangered-Species/master/group_KIA/mammalData.csv')
 
 	for col in species.columns:
 		species[col] = species[col].astype(str)
